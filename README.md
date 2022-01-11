@@ -1,2 +1,2 @@
-# practice-
+# practice
 practice web dev projects
